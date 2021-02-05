@@ -1,0 +1,9 @@
+D:\ALuyao\EasyApi\Easy.Util\bin\Debug\netstandard2.1\Easy.Util.deps.json
+D:\ALuyao\EasyApi\Easy.Util\bin\Debug\netstandard2.1\Easy.Util.dll
+D:\ALuyao\EasyApi\Easy.Util\bin\Debug\netstandard2.1\Easy.Util.pdb
+D:\ALuyao\EasyApi\Easy.Util\obj\Debug\netstandard2.1\Easy.Util.AssemblyInfoInputs.cache
+D:\ALuyao\EasyApi\Easy.Util\obj\Debug\netstandard2.1\Easy.Util.AssemblyInfo.cs
+D:\ALuyao\EasyApi\Easy.Util\obj\Debug\netstandard2.1\Easy.Util.csproj.CoreCompileInputs.cache
+D:\ALuyao\EasyApi\Easy.Util\obj\Debug\netstandard2.1\Easy.Util.dll
+D:\ALuyao\EasyApi\Easy.Util\obj\Debug\netstandard2.1\Easy.Util.pdb
+D:\ALuyao\EasyApi\Easy.Util\obj\Debug\netstandard2.1\Easy.Util.csprojAssemblyReference.cache

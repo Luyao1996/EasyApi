@@ -1,0 +1,12 @@
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\Easy.IBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\Easy.IBLL.AssemblyInfoInputs.cache
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\Easy.IBLL.AssemblyInfo.cs
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\Easy.IBLL.csproj.CoreCompileInputs.cache
+D:\ALuyao\EasyApi\Easy.IBLL\bin\Debug\net5.0\Easy.IBLL.deps.json
+D:\ALuyao\EasyApi\Easy.IBLL\bin\Debug\net5.0\Easy.IBLL.dll
+D:\ALuyao\EasyApi\Easy.IBLL\bin\Debug\net5.0\ref\Easy.IBLL.dll
+D:\ALuyao\EasyApi\Easy.IBLL\bin\Debug\net5.0\Easy.IBLL.pdb
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\Easy.IBLL.dll
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\ref\Easy.IBLL.dll
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\Easy.IBLL.pdb
+D:\ALuyao\EasyApi\Easy.IBLL\obj\Debug\net5.0\Easy.IBLL.csprojAssemblyReference.cache
